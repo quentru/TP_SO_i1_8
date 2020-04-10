@@ -2,3 +2,8 @@ Santiago
 Barraza
 192.168.0.34
 9:44
+
+Luis
+Mamani
+192.168.0.9
+9:57
